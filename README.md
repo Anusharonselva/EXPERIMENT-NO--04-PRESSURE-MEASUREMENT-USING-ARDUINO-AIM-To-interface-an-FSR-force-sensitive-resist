@@ -79,8 +79,13 @@ The easiest way to measure a resistive sensor is to connect one end to power and
  *your roll no: 212222240010
  * your name: S.ANUSHARON
  * department and year: AIML-1st year
+
+
+
  
  #define fsrpin A0
+ 
+ 
 #define led1 2
 #define led2 3
 #define led3 4
@@ -89,7 +94,12 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 #define led6 7
 
 int fsrreading;
+
+
 void setup()
+
+
+
 {  
  Serial.begin(9600);
 
@@ -162,8 +172,7 @@ For those unfamiliar with summation notation, the equation above may seem daunti
 
 EX:           μ = (1+3+4+7+8) / 5 = 4.6        
 σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
-σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577![ex-03](https://user-images.githubusercontent.com/119405600/236831307-9d5b3789-28f6-407f-925f-5bfc562034dd.png)
-
+σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577!
 
 
 
