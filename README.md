@@ -162,12 +162,14 @@ For those unfamiliar with summation notation, the equation above may seem daunti
 
 EX:           μ = (1+3+4+7+8) / 5 = 4.6        
 σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
-σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
+σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577![ex-03](https://user-images.githubusercontent.com/119405600/236831307-9d5b3789-28f6-407f-925f-5bfc562034dd.png)
+
 
 
 
 OUTPUT:
 
+![ex-03](https://user-images.githubusercontent.com/119405600/236831374-82d8ba7b-559e-4722-938c-1b2bc7671164.png)
 
 
 ![ex-03](https://user-images.githubusercontent.com/119405600/236830833-8553c880-153f-4d7a-8b68-f6b7645c493c.png)
